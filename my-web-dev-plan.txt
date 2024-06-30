@@ -1,7 +1,8 @@
 MY WEB DEVELOPMENT PLAN
 - PHP Native
-- PHP Laravel
+- PHP CodeIgniter
 - HTML, CSS, Javascript
 - ES6
 - Javascript Framework (not decided which one)
-- Fundamental Data Structure
+  * Angular
+  * React
