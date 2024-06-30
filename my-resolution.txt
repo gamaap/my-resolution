@@ -1,0 +1,4 @@
+My resolution for what I want to achieve in the rest of this year
+- Consistency of daily studying about web programming
+- Expert PHP
+- Expert PHP Framework (ex. Laravel)
