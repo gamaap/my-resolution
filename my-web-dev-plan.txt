@@ -2,3 +2,5 @@ MY WEB DEVELOPMENT PLAN
 - PHP Native
 - PHP Laravel
 - HTML, CSS, Javascript
+- ES6
+- Javascript Framework (not decided which one)
