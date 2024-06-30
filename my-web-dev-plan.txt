@@ -4,4 +4,7 @@ MY WEB DEVELOPMENT PLAN
 - HTML, CSS, Javascript
 - ES6
 - Javascript Framework (not decided which one)
+ * React.js
+ * Vue.js
 - Fundamental Data Structure
+- Python
