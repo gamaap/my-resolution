@@ -2,3 +2,5 @@ My Resolution
 - Consistently study or coding for 2 hours per day every night.
 - Learn about basic web programming.
 - Challenge myself to improve my logics and problem solving in platform like Leetcode, Hackerrank or Codewars.
+- Master back-end development
+- Take part of certification or events related to web development.
