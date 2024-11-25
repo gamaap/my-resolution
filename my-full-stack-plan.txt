@@ -5,3 +5,4 @@ My full-stack web development path
     * React or Vue (Front-end).
 - Learn session management.
 - Find out how to deploy an application using cPanel or Heroku.
+- Create real life projects (as much as I can).
